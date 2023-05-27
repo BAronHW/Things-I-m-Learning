@@ -6,6 +6,7 @@ A log Of all the things I am currently learning in the field of software enginee
 <summary>Web Development</summary>
 | Resource  | Progress |
 |---|---|
+
 | [The Odin Project: Introduction]https://www.theodinproject.com/lessons/foundations-how-this-course-will-work  |✓|
 | [The Odin Project: Prerequisites]https://www.theodinproject.com/lessons/foundations-computer-basics  |✓|
 | [The Odin Project: Git Basics] https://www.theodinproject.com/lessons/foundations-introduction-to-git |✓|
