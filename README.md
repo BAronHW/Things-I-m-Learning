@@ -2,7 +2,7 @@ learning
 
 A log Of all the things I am currently learning in the field of software engineering/programming and also expanding my knowledge in all things technology. I hope to update/learn atleast something new everyday.
 
-<details>
+
 <summary>Web Development</summary>
 |Resource|Progress|
 |---|---|
@@ -15,6 +15,3 @@ A log Of all the things I am currently learning in the field of software enginee
 |[The ODin Project: JavaScript Basics](https://www.theodinproject.com/lessons/foundations-fundamentals-part-1)|✓|
 |[The Odin Project: Conclusion](https://www.theodinproject.com/lessons/foundations-choose-your-path-forward)|✓|
 </details>
-
-
-
