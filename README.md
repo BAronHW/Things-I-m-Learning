@@ -15,5 +15,5 @@ A log Of all the things I am currently learning in the field of software enginee
 |[The Odin Project: Flexbox](https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox)|✓|
 |[The ODin Project: JavaScript Basics](https://www.theodinproject.com/lessons/foundations-fundamentals-part-1)|✓|
 |[The Odin Project: Conclusion](https://www.theodinproject.com/lessons/foundations-choose-your-path-forward)|✓|
-|[The Odin Project: Intermediate HTML Concepts](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-introduction)||
+|[The Odin Project: Intermediate HTML Concepts](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-introduction)|✓|
 </details>
