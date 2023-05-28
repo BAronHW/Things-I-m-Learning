@@ -18,3 +18,11 @@ A log Of all the things I am currently learning in the field of software enginee
 |[The Odin Project: Intermediate HTML Concepts](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-introduction)|✓|
 |[The Odin Project: Intermediate CSS Concepts](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-default-styles)||
 </details>
+
+<details>
+<summary>Git Version Control</summary>
+
+|Resource|Progress|
+|---|---|
+|[Version Control with Git](https://learn.udacity.com/courses/ud123)||
+</details>
