@@ -37,7 +37,8 @@ A log Of all the things I am currently learning in the field of software enginee
 </details>
 
 <details>
-<summary>CS with Python</summary>
+<summary>CS with Python</summary>\
+I am taking this course as a refresher course and to properly learn python as I mainly learned python while doing a university project and I hope that this will brush out problems I may have.
 
 |Resource|Progress|
 |---|---|
