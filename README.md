@@ -47,4 +47,9 @@ I am taking this course as a refresher course and to properly learn python as I 
 |---|---|
 |[Introduction to Computer Science and programming in python: Lecture 1: What is Computation?](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-1-what-is-computation/)|✓|
 </details>
+
+<details>
+  <summary>Summer 2023</summary>
+  Here entails a description/explanation/list of things I did in the summer of 2023 in regard to CS/my future career in tech. 
+</details>
   
