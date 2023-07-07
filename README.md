@@ -41,6 +41,6 @@ A log Of all the things I am currently learning in the field of software enginee
 
 |Resource|Progress|
 |---|---|
-|[Introduction to Computer Science and programming in python: Lecture 1: What is Computation?](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-1-what-is-computation/)||
+|[Introduction to Computer Science and programming in python: Lecture 1: What is Computation?](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-1-what-is-computation/)|✓|
 </details>
   
