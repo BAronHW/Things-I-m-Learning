@@ -4,6 +4,7 @@ A log Of all the things I am currently learning in the field of software enginee
 
 <details>
 <summary>Web Development</summary>
+I am taking this course because I am interested in front-end development which I think this course will teach me. I am also interested in how the front end interacts with the backend and therefore I saw that this full-stack course will suit my needs.
 
 |Resource|Progress|
 |---|---|
@@ -21,7 +22,7 @@ A log Of all the things I am currently learning in the field of software enginee
 
 <details>
 <summary>Git Version Control</summary>
-
+I hope to gain a more in-depth understanding of version control using Git as we were not properly taught how to do these things in University. Therefore, I believe that it is important for me as an aspiring developer/software engineer to learn this part of development in my own time.
 |Resource|Progress|
 |---|---|
 |[Version Control with Git](https://learn.udacity.com/courses/ud123)||
