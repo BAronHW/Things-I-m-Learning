@@ -35,4 +35,12 @@ A log Of all the things I am currently learning in the field of software enginee
 |[Data-Structures and algorithms in Python: Introduction and Efficiency](https://learn.udacity.com/courses/ud513/lessons/a7bd2ec6-dec4-4f3a-8282-9d452d0cb693/concepts/49726ca3-5d6b-4a33-b889-6b168d30be67)|✓|
 |[Data-Structures and algorithms in Python: List based collections](https://learn.udacity.com/courses/ud513/lessons/a7bd2ec6-dec4-4f3a-8282-9d452d0cb693/concepts/49726ca3-5d6b-4a33-b889-6b168d30be67)||
 </details>
+
+<details>
+<summary>CS with Python</summary>
+
+|Resource|Progress|
+|---|---|
+|[Introduction to Computer Science and programming in python: Lecture 1: What is Computation?](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-1-what-is-computation/)||
+</details>
   
