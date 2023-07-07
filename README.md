@@ -23,6 +23,7 @@ I am taking this course because I am interested in front-end development which I
 <details>
 <summary>Git Version Control</summary>
 I hope to gain a more in-depth understanding of version control using Git as we were not properly taught how to do these things in University. Therefore, I believe that it is important for me as an aspiring developer/software engineer to learn this part of development in my own time.
+  
 |Resource|Progress|
 |---|---|
 |[Version Control with Git](https://learn.udacity.com/courses/ud123)||
@@ -30,6 +31,7 @@ I hope to gain a more in-depth understanding of version control using Git as we 
 
 <details>
 <summary>Data-structures and algorithms</summary>
+I am taking this course to improve my understanding of DSA which I believe my university has not gone enough into.
 
 |Resource|Progress|
 |---|---|
