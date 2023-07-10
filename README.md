@@ -41,11 +41,13 @@ I am taking this course to improve my understanding of DSA which I believe my un
 
 <details>
 <summary>CS with Python</summary>
-I am taking this course as a refresher course and to properly learn python as I mainly learned python while doing a university project and I hope that this will brush out problems I may have.
+I am taking this course as a refresher course and to properly learn Python as I mainly learned Python while doing a university project and I hope that this will brush out problems I may have.
 
 |Resource|Progress|
 |---|---|
 |[Introduction to Computer Science and programming in python: Lecture 1: What is Computation?](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-1-what-is-computation/)|✓|
+|[Introduction to Computer Science and programming in python: Lecture 2: Branching and Iteration](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-2-branching-and-iteration/)|✓|
+
 </details>
 
 <details>
