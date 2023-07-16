@@ -17,7 +17,8 @@ I am taking this course because I am interested in front-end development which I
 |[The ODin Project: JavaScript Basics](https://www.theodinproject.com/lessons/foundations-fundamentals-part-1)|✓|
 |[The Odin Project: Conclusion](https://www.theodinproject.com/lessons/foundations-choose-your-path-forward)|✓|
 |[The Odin Project: Intermediate HTML Concepts](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-introduction)|✓|
-|[The Odin Project: Intermediate CSS Concepts](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-default-styles)||
+|[The Odin Project: Intermediate CSS Concepts](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-default-styles)|✓|
+|[The Odin Project: Forms](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form)||
 </details>
 
 <details>
