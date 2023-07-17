@@ -48,7 +48,8 @@ I am taking this course as a refresher course and to properly learn Python as I 
 |---|---|
 |[Introduction to Computer Science and programming in python: Lecture 1: What is Computation?](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-1-what-is-computation/)|✓|
 |[Introduction to Computer Science and programming in python: Lecture 2: Branching and Iteration](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-2-branching-and-iteration/)|✓|
-|[Introduction to Computer Science and programming in python: Lecture 3: String Manipulation, Guess and Check, Approximations, Bisection](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-3-string-manipulation-guess-and-check-approximations-bisection/)||
+|[Introduction to Computer Science and programming in python: Lecture 3: String Manipulation, Guess and Check, Approximations, Bisection](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-3-string-manipulation-guess-and-check-approximations-bisection/)|✓|
+|[Introduction to Computer Science and programming in python: Lecture 4: Decomposition, Abstraction, and Functions](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-4-decomposition-abstraction-and-functions/)||
 
 </details>
 
