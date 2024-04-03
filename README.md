@@ -21,40 +21,5 @@ I am taking this course because I am interested in front-end development which I
 |[The Odin Project: Forms](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form)||
 </details>
 
-<details>
-<summary>Git Version Control</summary>
-I hope to gain a more in-depth understanding of version control using Git as we were not properly taught how to do these things in University. Therefore, I believe that it is important for me as an aspiring developer/software engineer to learn this part of development in my own time.
-  
-|Resource|Progress|
-|---|---|
-|[Version Control with Git](https://learn.udacity.com/courses/ud123)||
-</details>
 
-<details>
-<summary>Data-structures and algorithms</summary>
-I am taking this course to improve my understanding of DSA which I believe my university has not gone enough into.
-
-|Resource|Progress|
-|---|---|
-|[Data-Structures and algorithms in Python: Introduction and Efficiency](https://learn.udacity.com/courses/ud513/lessons/a7bd2ec6-dec4-4f3a-8282-9d452d0cb693/concepts/49726ca3-5d6b-4a33-b889-6b168d30be67)|✓|
-|[Data-Structures and algorithms in Python: List based collections](https://learn.udacity.com/courses/ud513/lessons/a7bd2ec6-dec4-4f3a-8282-9d452d0cb693/concepts/49726ca3-5d6b-4a33-b889-6b168d30be67)||
-</details>
-
-<details>
-<summary>CS with Python</summary>
-I am taking this course as a refresher course and to properly learn Python as I mainly learned Python while doing a university project and I hope that this will brush out problems I may have.
-
-|Resource|Progress|
-|---|---|
-|[Introduction to Computer Science and programming in python: Lecture 1: What is Computation?](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-1-what-is-computation/)|✓|
-|[Introduction to Computer Science and programming in python: Lecture 2: Branching and Iteration](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-2-branching-and-iteration/)|✓|
-|[Introduction to Computer Science and programming in python: Lecture 3: String Manipulation, Guess and Check, Approximations, Bisection](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-3-string-manipulation-guess-and-check-approximations-bisection/)|✓|
-|[Introduction to Computer Science and programming in python: Lecture 4: Decomposition, Abstraction, and Functions](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-4-decomposition-abstraction-and-functions/)||
-
-</details>
-
-<details>
-  <summary>Summer 2023</summary>
-  Here entails a description/explanation/list of things I did in the summer of 2023 in regard to CS/my future career in tech. 
-</details>
   
