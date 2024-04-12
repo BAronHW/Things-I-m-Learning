@@ -21,5 +21,14 @@ I am taking this course because I am interested in front-end development which I
 |[The Odin Project: Forms](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form)||
 </details>
 
+<details>
+<summary>Cyber security</summary>
+|Resource|Progress|
+|---|---|
+|[Tryhackme: Introduction to cyber-security]|✓|
+|[Tryhackme: Introduction to pentesting]|✓|
+|[Tryhackme: Introduction to webhacking]||
+</details>
+
 
   
